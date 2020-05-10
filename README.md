@@ -1,2 +1,2 @@
 # cpanta_repo
-Mi primer repositorio
+Mi primer repositorio beteto
